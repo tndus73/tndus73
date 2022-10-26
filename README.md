@@ -1,4 +1,4 @@
-### Hi there 👋
+### sooyeon 👋
 
 <!--
 **tndus73/tndus73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
