@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=모양&color=auto&height=10&section=header&text=환영합니다&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=10&section=header&text=환영합니다&fontSize=20)
 
 <!--
 **tndus73/tndus73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
